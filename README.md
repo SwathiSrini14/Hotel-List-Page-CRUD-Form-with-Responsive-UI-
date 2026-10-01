@@ -1,1 +1,0 @@
-# Hotel-List-Page-CRUD-Form-with-Responsive-UI-
